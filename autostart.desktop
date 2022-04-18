@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=autoConnect
+Comment=auto connect to ngrok
+Exec=python /home/pi/autoConnectNgrok.py
+Icon=/home/pi/example.png
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true
